@@ -135,7 +135,6 @@ PySimpleGUI==5.0.8.3
 python-dateutil==2.8.2
 python-json-logger==3.3.0
 pytz==2022.7.1
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==24.0.1
 referencing==0.36.2
@@ -167,9 +166,9 @@ terminado==0.18.1
 threadpoolctl==3.1.0
 tifffile==2025.3.30
 tinycss2==1.4.0
-torch==2.0.1+cu117
-torchaudio==2.0.2+cu117
-torchvision==0.15.2+cu117
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.14.3
