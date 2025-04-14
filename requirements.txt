@@ -135,7 +135,6 @@ PySimpleGUI==5.0.8.3
 python-dateutil==2.8.2
 python-json-logger==3.3.0
 pytz==2022.7.1
-pywin32==308
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==24.0.1
